@@ -1,12 +1,24 @@
 # Introduction to Data Science
 
-Course materials and practice exercises from the course "Introduction to Data Science".
+Sookmyung Women's University  
+Data Science undergraduate course
 
-Contents include:
+## Topics
+- Data visualization (Seaborn)
+- Linear regression
+- KNN classification
+- KMeans clustering
+- Neural networks (Perceptron, MLP)
+- Audio classification
+- Image segmentation
 
-- Python programming for data analysis
-- File handling (CSV, JSON, XML)
-- Basic data visualization
-- Data processing exercises
+## Languages
+Python
 
-Folders are organized by lecture date.
+## Libraries
+- numpy
+- pandas
+- seaborn
+- scikit-learn
+- librosa
+- opencv
